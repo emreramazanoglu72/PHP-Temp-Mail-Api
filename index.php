@@ -3,7 +3,7 @@
     /**
      * Import TempMail Api
      */
-    require './dist/TempMail.php';
+    require './TempMail.php';
 
     $tempmail = new TempMailApi();
     /**
